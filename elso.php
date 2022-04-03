@@ -1,3 +1,3 @@
 <?php 
 
-echo 'valami mas';
+echo 'valami massssok';
